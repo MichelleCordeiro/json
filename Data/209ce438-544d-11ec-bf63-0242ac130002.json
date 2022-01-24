@@ -1,0 +1,12 @@
+[
+  {
+    "id": "209ce438-544d-11ec-bf63-0242ac130002",
+    "to": "Martin",
+    "from": "Austin",
+    "tittle": "Job offer",
+    "time": "Dez, 23",
+    "star": false,
+    "picture": "https://cdn.pixabay.com/photo/2020/06/15/15/16/male-5302245_960_720.jpg",
+    "body": "<div style=\"background-color:red\">Hello, we have a job offfer to you... if you are interested, please answer this email</div>"
+  }
+]
