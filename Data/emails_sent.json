@@ -1,7 +1,7 @@
 [
   {
     "id": "d6eb0466-544a-11ec-bf63-0242ac130002",
-    "to": "Martin",
+    "from": "Martin",
     "tittle": "Send me news",
     "time": "Dez, 21",
     "star": true,
@@ -9,7 +9,7 @@
   },
   {
     "id": "209ce438-544d-11ec-bf63-0242ac130002",
-    "to": "Martin",
+    "from": "Martin",
     "tittle": "Job offer",
     "time": "Dez, 23",
     "star": false,
@@ -17,7 +17,7 @@
   },
   {
     "id": "e0a6a8a4-544d-11ec-bf63-0242ac130002",
-    "to": "Martin",
+    "from": "Martin",
     "tittle": "See you soon",
     "time": "Dez, 23",
     "star": true,
